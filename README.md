@@ -9,9 +9,10 @@ This course includes the following scripts:
 1. **LED_CONTROL**: Basic control of LED lights.
 2. **LED_COLOR_CONTROL**: Adjusting LED colors.
 3. **LED_PATTERN_CONTROL**: Creating patterns with LEDs.
-4. **TEXT_TO_DISPLAY**: Displaying text on screen.
-5. **LED_TRACING_ASCII_ART**: Tracing active LED light with ASCII art.
-6. **SYSTEM_USAGE**: Displaying current System usage on screen.
+4. **TEXT_TO_DISPLAY**: Displaying text on Busy Tag screen.
+5. **LED_TO_ASCII**: Tracing active LED light with ASCII symbol.
+6. **SYSTEM_UPTIME**: Tracking system uptime and displaying it on Busy Tag screen
+7. **SYSTEM_USAGE**: Displaying current System usage on Busy Tag screen.
 
 Each script is self-contained and focuses on a specific aspect of Busy Tag feature. The course is designed to be modular, allowing you to start with any script based on your interest or learning needs.
 
